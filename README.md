@@ -24,7 +24,9 @@ on macOS and Windows.
 
 ## Install and run
 Download .zip for your platform, unzip an app an run it.
+
 [Download for WINDOWS](https://app.notion.com/p/Windows-Unicalisator-3c19e5ca0a25804993e6ea873b66fa87?v=2f29e5ca0a2580e1ac0a000cc59f7857)
+
 [Download for MacOS](https://app.notion.com/p/Windows-Unicalisator-3c19e5ca0a25804993e6ea873b66fa87?v=2f29e5ca0a2580e1ac0a000cc59f7857)
 
 ## NOTE: The bundles are unsigned
